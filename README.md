@@ -1,4 +1,4 @@
-# CyberGuard AI - Innovation Marathon Demo
+# CyberGuard AI - CAPSTONE PROJECT Demo
 
 ## AI-Driven Cyber Attack Detection & Attacker Behavior Prediction System
 
@@ -74,7 +74,7 @@ A next-generation threat intelligence platform that predicts and prevents cyber 
 
 ---
 
-## 🏆 Innovation Marathon Strategy
+## 🏆 Innovative Strategy
 
 ### 5-Minute Demo Flow
 
@@ -209,6 +209,6 @@ A next-generation threat intelligence platform that predicts and prevents cyber 
 
 ---
 
-**Built for Innovation Marathon 2026**
+**Built for Innovative capstone project 2026**
 
 *"Predicting threats before they happen—because the best defense is seeing the future."*
